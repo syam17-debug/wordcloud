@@ -91,5 +91,5 @@ def main():
         else:
             st.info("Please upload a file or enter some text to begin.")
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     main()
