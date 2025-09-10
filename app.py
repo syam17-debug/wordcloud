@@ -1,4 +1,3 @@
-pip install wordcloud
 import streamlit as st
 from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
